@@ -33,7 +33,7 @@ public class Exercicio07 {
 			System.out.println(list[i] +" >>> "+list2[i]);
 		}
 			
-		
+		read.close();
 		
 
 	}
